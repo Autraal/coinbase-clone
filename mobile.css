@@ -1,0 +1,6 @@
+@media (min-width: 300px) and (max-width:880px) {
+ 
+.body{
+  display:none;
+}
+}
